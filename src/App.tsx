@@ -194,7 +194,7 @@ export default function VapeProforma() {
           </tbody>
         </table>
       </div>
-      <div style={{ fontSize: 11, color: "#374151", textAlign: "center" }}>Model assumptions: CDC adult e-cigarette use rate (~9.5%). For illustrative purposes only.</div>
+      <div style={{ fontSize: 11, color: "#374151", textAlign: "center" }}>Model assumptions: google adult e-cigarette use rate (~8 to 15%%). For illustrative purposes only.</div>
     </div>
   );
 }
