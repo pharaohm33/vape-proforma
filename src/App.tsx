@@ -80,7 +80,7 @@ export default function VapeProforma() {
       <div style={{ marginBottom: 36 }}>
         <div style={{ fontSize: 11, color: "#22d3ee", letterSpacing: "0.15em", textTransform: "uppercase", marginBottom: 8 }}>Bar Retail · Vape Sales</div>
         <h1 style={{ fontSize: 32, fontWeight: 900, margin: 0, letterSpacing: "-0.02em" }}>Nightly Sales Proforma</h1>
-        <p style={{ color: "#6b7280", fontSize: 14, marginTop: 8 }}>Based on CDC adult vaping rate (~9.5%) applied to bar attendance.</p>
+        <p style={{ color: "#6b7280", fontSize: 14, marginTop: 8 }}>Based on single vape vending machine and google search adult vaping rate (~8%-15%) applied to bar attendance.</p>
       </div>
       <div style={{ background: "#0f172a", border: "1px solid #1e293b", borderRadius: 16, padding: "24px 24px 12px", marginBottom: 28 }}>
         <div style={{ fontSize: 12, color: "#64748b", textTransform: "uppercase", letterSpacing: "0.1em", marginBottom: 20 }}>📊 Venue & Product Inputs</div>
